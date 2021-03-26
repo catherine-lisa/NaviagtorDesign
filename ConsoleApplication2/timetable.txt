@@ -1,0 +1,8 @@
+ClassBuildingN103   ClassBuildingS208   ClassBuildingN103  ClassBuildingS208    ClassBuildingS415
+ClassBuildingN103   ClassBuildingN205  ClassBuildingN205  ClassBuildingS208     ClassBuildingN103
+ClassBuildingS208    ActivityCenter         ClassBuildingS210   ClassBuildingN105   ClassBuildingS208
+ClassBuildingN305   ActivityCenter          ClassBuildingS210   ClassBuildingN105   ClassBuildingS208
+ClassBuildingS412    ClassBuildingN512  ClassBuildingN205  ClassBuildingS405   ActivityCenter
+ClassBuildingN215   ClassBuildingN512  ClassBuildingN205   ClassBuildingS405   ActivityCenter
+ClassBuildingS108    ClassBuildingS210   ClassBuildingS108   ClassBuildingS210   ActivityCenter
+ClassBuildingS108    ClassBuildingS210   ClassBuildingS108  ClassBuildingS210    ClassBuildingS405

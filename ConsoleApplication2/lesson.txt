@@ -1,0 +1,8 @@
+ComputerNetwork     Math        English        DigitalLogic    DataStructure
+ComputerNetwork     Math     Physics        DigitalLogic       Math
+ProgramDesign               Robotics         DataStructure     English         ProgramDesign  
+ElectronicCircuit              Robotics         DataStructure      English        ProgramDesign  
+English                   ComputerScience             Math          Robotics        Physics  
+Physics                   ComputerScience            Math           Robotics        Physics  
+DataStructure                    Math              ElectronicCircuit   Math          Physics  
+DataStructure                    Math             ElectronicCircuit    Math         English
